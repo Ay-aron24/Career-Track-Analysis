@@ -24,7 +24,8 @@ The companies main database structure as seen below consists of two tables: care
 - **career_track_info:** contains the different type of career tracks
 - **career_track_student_enrollment:** contains information regarding a student's enrollment and the date they completed the career track
 
-[Entity Relationship Diagram here]
+![Log In Page](https://github.com/user-attachments/assets/264149b1-6811-4d8c-b5f5-6dfd1f6ac859)
+
 
 
 
