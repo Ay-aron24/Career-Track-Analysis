@@ -11,9 +11,7 @@ Insights and recommendations are provided on the following key areas:
 - **Percentage of Career Tracks Completed:**  Percentage of students who finished a career track
 - **Time Needed for Completing a Career Track:**  Days student required to complete a career track
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targed SQL queries regarding various business questions can be found here [link].
+The SQL queries used to organize and prepare the data for a dashboard can be found here [link].
 
 An interactive Tableau dashboard used to report and explore career track analysis can be found here [[link](https://public.tableau.com/app/profile/aaron.arroyo1400/viz/CareerTrackAnalysis_17275568340830/CareerTrackAnalysis)].
 
@@ -21,7 +19,7 @@ An interactive Tableau dashboard used to report and explore career track analysi
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of two tables: career_track_info, career_track_student_enrollment, with a total row count of 10,444 records. A description of each table is as follows:
+365 Data Science's database structure as seen below consists of two tables: career_track_info, career_track_student_enrollment, with a total row count of 10,444 records. A description of each table is as follows:
 - **career_track_info:** Contains the different type of career tracks
 - **career_track_student_enrollment:** Contains information regarding a student's enrollment and the date they completed the career track
 
@@ -35,6 +33,9 @@ The companies main database structure as seen below consists of two tables: care
 ### Overview of Findings
 
 August registered the most enrollments in all career tracks and the highest percentage of completion in all career tracks; however, most student fell off the next month in September where the percentage of completion fell tremendously. Moreover, data analyst had the most enrollments followed by data science and business analyst. Lastly, students consistently took between 91 and 365 days to complete a career track for all 3 tracks.
+
+Below is an overview page from the Tableau dashboard and more example can be found by clicking throughout the report. The entire interactive Tableau dashboard can be downloaded here: [[link](https://public.tableau.com/app/profile/aaron.arroyo1400/viz/CareerTrackAnalysis_17275568340830/CareerTrackAnalysis)]
+
 
 ![Career Track Analysis](https://github.com/user-attachments/assets/380ca03e-f87f-48bf-b8c1-ae08ebe570d6)
 
