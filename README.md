@@ -9,7 +9,7 @@ Insights and recommendations are provided on the following key areas:
 
 - **Number of Enrollments:** Number of students enrolled in a career track
 - **Percentage of Career Tracks Completed:**  Percentage of students who finished a career track
-- **Time Needed for Completing a Career Track:**  Days student required to complete a career track
+- **Time-for-Completion of a Career Track:**  Days student required to complete a career track
 
 The SQL queries used to organize and prepare the data for a dashboard can be found here [link].
 
@@ -48,7 +48,7 @@ Below is an overview page from the Tableau dashboard and more example can be fou
 
 * **Most students needed between 91 to 365 days to complete the Data Analyst track while 61 to 90 days is the least amount of time needed to complete the Data Analyst track.** 20 students completed the Data Analyst track within 91 to 365 days while 2 students completed the Data Analyst track within 61 to 90 days.
 
-[Visualization specific to category 1]
+![Data Analyst](https://github.com/user-attachments/assets/ab99d3ae-43fb-4e64-a230-889a6163d4e0)
 
 ### Total Number of Enrollments, Percentage of Completion, and Time for Completion for Data Science:
 
@@ -58,6 +58,8 @@ Below is an overview page from the Tableau dashboard and more example can be fou
 
 * **Most students needed between 91 to 365 days to complete the Data Science track while 31 to 60 days is the least amount of time needed to complete the Data Science track.** 23 students completed the Data Analyst track within 91 to 365 days while 1 student completed the Data Analyst track within 61 to 90 days.
 
+* ![Data Science](https://github.com/user-attachments/assets/84e0b625-e93c-47c4-90d2-2e2a8a5c3151)
+
 ### Total Number of Enrollments, Percentage of Completion, and Time for Completion for Business Analyst:
 
 * **August registered the most enrollments while October registered the least enrollments.** 227 students enrolled in August while 95 students enrolled in October.
@@ -66,7 +68,7 @@ Below is an overview page from the Tableau dashboard and more example can be fou
 
 * **Most students needed between 91 to 365 days to complete the Business Analyst track while both 61 to 90 days and 366+ days is the least amount of time needed to complete the track.** 12 students completed the Data Analyst track within 91 to 365 days while 1 student completed the Data Analyst track both within 61 to 90 days and 366+ days.
 
-[Visualization specific to category 2]
+![Business Analyst](https://github.com/user-attachments/assets/dc6d4ab0-8819-4295-b0e4-a08ad49a0ae9)
 
 ### Total Number of Enrollments, Percentage of Completion, and Time for Completion for All 3 Tracks:
 
@@ -76,7 +78,8 @@ Below is an overview page from the Tableau dashboard and more example can be fou
 
 * **Most students needed between 91 to 365 days to complete all 3 tracks while 61 to 90 days is the least amount of time needed to complete all 3 tracks.** 55 students completed the Data Analyst track within 91 to 365 days while 5 students completed the Data Analyst track within 61 to 90 days.
 
-[Visualization specific to category 2]
+![3 Tracks](https://github.com/user-attachments/assets/f5424d53-f6ad-4f88-a81c-92018216183d)
+
 
 # Recommendations:
 
