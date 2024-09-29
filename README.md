@@ -83,7 +83,7 @@ Below is an overview page from the Tableau dashboard and more example can be fou
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the insights and findings above, we would recommend the 365 Data Science to consider the following: 
 
 * Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
   
