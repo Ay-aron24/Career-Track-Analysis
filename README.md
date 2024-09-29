@@ -40,33 +40,34 @@ Below is an overview page from the Tableau dashboard and more example can be fou
 
 
 # Insights Deep Dive
-### Number of Enrollments:
+### Total Number of Enrollments:
 
-* **August registered the most enrollments in all three career tracks.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **August registered the most enrollments in all three career tracks while October registered the least enrollments in all three career tracks.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-* **Months before and after August had the highest increase and decrease of number of enrollments respectively.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-* **October registered the least enrollments in all three career tracks.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Data analyst had the most enrollments followed by Data Science and Business Analyst from January 2022 to October 2022.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 1]
 
+### Trends of Number of Enrollments:
 
-### Percentage of Career Tracks Completed:
+* **Months before and after August had the highest increase and decrease of number of enrollments respectively.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Months before and after August had the highest increase and decrease of number of enrollments respectively.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+### Percentage of Career Tracks Completed and Trends:
+
+* **August had the highest percentage of completion for all 3 career tracks.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Months before and after August had the highest increase and decrease of percentage of completion respectively for all 3 career tracks.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **September had the lowest percentage of completion for all 3 career tracks.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 2]
 
 
-### Category 3:
+### Time for Completion and Trends:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Students consistently required between 91 and 365 days to complete a career track for all 3 tracks.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -75,21 +76,6 @@ Below is an overview page from the Tableau dashboard and more example can be fou
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 3]
-
-
-### Category 4:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 4]
-
-
 
 # Recommendations:
 
