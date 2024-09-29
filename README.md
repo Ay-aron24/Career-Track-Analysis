@@ -40,42 +40,43 @@ Below is an overview page from the Tableau dashboard and more example can be fou
 
 
 # Insights Deep Dive
-### Total Number of Enrollments:
+### Total Number of Enrollments, Percentage of Completion, and Time for Completion for Data Analyst:
 
-* **August registered the most enrollments in all three career tracks while October registered the least enrollments in all three career tracks.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **August registered the most enrollments while October registered the least enrollments.** 841 students enrolled in August while 162 students enrolled in October.
 
-* **Data analyst had the most enrollments followed by Data Science and Business Analyst from January 2022 to October 2022.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **January had the highest percentage of completion while March had the lowest percentage of completion.** 1.6% of students completed the Data Analyst track in January while 0.3% of students completed the Data Analyst track in March.
+
+* **Most students needed between 91 to 365 days to complete the Data Analyst track while 61 to 90 days is the least amount of time needed to complete the Data Analyst track.** 20 students completed the Data Analyst track within 91 to 365 days while 2 students completed the Data Analyst track within 61 to 90 days.
 
 [Visualization specific to category 1]
 
-### Trends of Number of Enrollments:
+### Total Number of Enrollments, Percentage of Completion, and Time for Completion for Data Science:
 
-* **Months before and after August had the highest increase and decrease of number of enrollments respectively.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **August registered the most enrollments while October registered the least enrollments.** 585 students enrolled in August while 169 students enrolled in October.
 
-* **Months before and after August had the highest increase and decrease of number of enrollments respectively.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **August had the highest percentage of completion while both September and October had the lowest percentage of completion.** 2.6% of students completed the Data Science track while 0% of students completed the Data Science  track.
 
-### Percentage of Career Tracks Completed and Trends:
+* **Most students needed between 91 to 365 days to complete the Data Science track while 31 to 60 days is the least amount of time needed to complete the Data Science track.** 23 students completed the Data Analyst track within 91 to 365 days while 1 student completed the Data Analyst track within 61 to 90 days.
 
-* **August had the highest percentage of completion for all 3 career tracks.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Months before and after August had the highest increase and decrease of percentage of completion respectively for all 3 career tracks.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **September had the lowest percentage of completion for all 3 career tracks.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+### Total Number of Enrollments, Percentage of Completion, and Time for Completion for Business Analyst:
+
+* **August registered the most enrollments while October registered the least enrollments.** 227 students enrolled in August while 95 students enrolled in October.
+
+* **August had the highest percentage of completion while June had the lowest percentage of completion.** 4.4% of students completed the Business Analyst track in August while 0% of students completed the Business Analyst track in June.
+
+* **Most students needed between 91 to 365 days to complete the Business Analyst track while both 61 to 90 days and 366+ days is the least amount of time needed to complete the track.** 12 students completed the Data Analyst track within 91 to 365 days while 1 student completed the Data Analyst track both within 61 to 90 days and 366+ days.
 
 [Visualization specific to category 2]
 
+### Total Number of Enrollments, Percentage of Completion, and Time for Completion for All 3 Tracks:
 
-### Time for Completion and Trends:
+* **August registered the most enrollments while October registered the least enrollments for all 3 Tracks.** 1653 students enrolled in August while 426 students enrolled in October.
 
-* **Students consistently required between 91 and 365 days to complete a career track for all 3 tracks.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **January had the highest percentage of completion while September had the lowest percentage of completion.** 2.3 % of students completed all 3 tracks in August while 0.5% of students completed all 3 tracks in September.
 
-[Visualization specific to category 3]
+* **Most students needed between 91 to 365 days to complete all 3 tracks while 61 to 90 days is the least amount of time needed to complete all 3 tracks.** 55 students completed the Data Analyst track within 91 to 365 days while 5 students completed the Data Analyst track within 61 to 90 days.
+
+[Visualization specific to category 2]
 
 # Recommendations:
 
