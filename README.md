@@ -36,7 +36,7 @@ The companies main database structure as seen below consists of two tables: care
 
 August registered the most enrollments in all career tracks and the highest percentage of completion in all career tracks; however, most student fell off the next month in September where the percentage of completion fell tremendously. Moreover, data analyst had the most enrollments followed by data science and business analyst. Lastly, students consistently took between 91 and 365 days to complete a career track for all 3 tracks.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+![Career Track Analysis](https://github.com/user-attachments/assets/380ca03e-f87f-48bf-b8c1-ae08ebe570d6)
 
 
 
