@@ -3,7 +3,7 @@
 # Project Background
 365 Data Science is an educational institution focused on helping people interested in developing data-related skills in order to be succesful in data-related careers. 
 
-In 2021, the company introduced an option for student enrollment in a career track; the track represents a sequence a courses a student has to complete to obtain the skills in one of the three job titles: data scientist, data analyst, or business analyst. This project will analyze the data regarding career track enrollments.
+In 2021, the company introduced an option for student enrollment in a career track; the track represents a sequence a courses a student has to complete to obtain the skills in one of the three job titles: data scientist, data analyst, or business analyst. This project will analyze the data regarding career track enrollments from January 2022 to October 2022.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -14,8 +14,6 @@ Insights and recommendations are provided on the following key areas:
 The SQL queries used to organize and prepare the data for a dashboard can be found here [link].
 
 An interactive Tableau dashboard used to report and explore career track analysis can be found here [[link](https://public.tableau.com/app/profile/aaron.arroyo1400/viz/CareerTrackAnalysis_17275568340830/CareerTrackAnalysis)].
-
-
 
 # Data Structure & Initial Checks
 
