@@ -41,20 +41,18 @@ August registered the most enrollments in all career tracks and the highest perc
 
 
 # Insights Deep Dive
-### Category 1:
+### Number of Enrollments:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **August registered the most enrollments in all three career tracks.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+* **Months before and after August had the highest increase and decrease of number of enrollments respectively.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+* **October registered the least enrollments in all three career tracks.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 1]
 
 
-### Category 2:
+### Percentage of Career Tracks Completed:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
