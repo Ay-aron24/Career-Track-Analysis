@@ -7,8 +7,9 @@ In 2021, the company introduced an option for student enrollment in a career tra
 
 Insights and recommendations are provided on the following key areas:
 
-- **Percentage of Career Tracks Completed:** 
-- **Category 2:**  
+- **Number of Enrollments:** Number of students enrolled in a career track
+- **Percentage of Career Tracks Completed:**  Percentage of students who finished a career track
+- **Time Needed for Completing a Career Track:**  Days student required to complete a career track
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
@@ -21,8 +22,8 @@ An interactive Tableau dashboard used to report and explore career track analysi
 # Data Structure & Initial Checks
 
 The companies main database structure as seen below consists of two tables: career_track_info, career_track_student_enrollment, with a total row count of 10,444 records. A description of each table is as follows:
-- **career_track_info:** contains the different type of career tracks
-- **career_track_student_enrollment:** contains information regarding a student's enrollment and the date they completed the career track
+- **career_track_info:** Contains the different type of career tracks
+- **career_track_student_enrollment:** Contains information regarding a student's enrollment and the date they completed the career track
 
 ![Log In Page](https://github.com/user-attachments/assets/264149b1-6811-4d8c-b5f5-6dfd1f6ac859)
 
@@ -33,7 +34,7 @@ The companies main database structure as seen below consists of two tables: care
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+August registered the most enrollments in all career tracks and the highest percentage of completion in all career tracks; however, most student fell off the next month in September where the percentage of completion fell tremendously. Moreover, data analyst had the most enrollments followed by data science and business analyst. Lastly, students consistently took between 91 and 365 days to complete a career track for all 3 tracks.
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
