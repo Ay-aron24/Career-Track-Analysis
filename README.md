@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 - **Percentage of Career Tracks Completed:**  Percentage of students who finished a career track
 - **Time-for-Completion of a Career Track:**  Days student required to complete a career track
 
-The SQL queries used to organize and prepare the data for a dashboard can be found here [link].
+The SQL queries used to organize and prepare the data for a dashboard can be found here [[link](https://github.com/Ay-aron24/Career-Track-Analysis/blob/main/Career%20Track%20Analysis%20with%20SQL%20and%20Tableau.sql.)]
 
 An interactive Tableau dashboard used to report and explore career track analysis can be found here [[link](https://public.tableau.com/app/profile/aaron.arroyo1400/viz/CareerTrackAnalysis_17275568340830/CareerTrackAnalysis)].
 
