@@ -39,7 +39,7 @@ Below is an overview page from the Tableau dashboard and more examples can be fo
 # Insights Deep Dive
 ### Total Number of Enrollments, Percentage of Completion for all 3 Tracks:
 
-* **General range of number of enrollments and month that saw the highest enrollments.** The monthly enrollment for all 3 career tracks ranges from 800 to 1,200 students with August seeing the most enrollments with 1,653 students and October seeing the least enrollments with 426 students.
+* **General range of number of enrollments and month that saw the highest enrollments.** The monthly enrollment for all 3 career tracks ranges from 800 to 1,200 students with August seeing the most enrollments with 1,653 students and October seeing the least with 426 students.
 
 * **Percentage of completion fluctuated for all 3 tracks.** The percentage of completion ranges from 0.5% to 2%; however, since it fluctuates differently for all different tracks, we can't say conclusively if we expect the completion rate to increase, decrease, or stay constant for all career tracks combined.
 
@@ -61,9 +61,9 @@ Below is an overview page from the Tableau dashboard and more examples can be fo
 
 Based on the insights and findings above, we would recommend the 365 Data Science to consider the following: 
 
-* Given that the percentage of completion is around 2% for all completed tracks, **reevaluate whether 2% is an expected percentage for completing a career track and, if not, introduce a way to help students increase their chances of completing a course.**
+* Given that the percentage of completion is around 2% for all completed tracks, **reevaluate whether 2% is an expected percentage for completing a career track and, if not, introduce a way to help students increase their chances of completing a career track.**
   
-* Since most students complete a track between 91 to 365 days, **reevaluate the career track's structure and see if it's appropriate that it takes longer than usual to complete a track.**
+* Since most students complete a track between 91 to 365 days, **reevaluate the career track's structure and see if it's appropriate that it takes longer than usual to complete a track. If not, focus on assisting students to complete a track sooner.**
   
 * Since October had the lowest number of enrollments for all career tracks and isn't in the range of 800 to 1,200 enrollments, **enhance marketing efforts and boost engagements to drive students to enroll in a career track in October.**
 
